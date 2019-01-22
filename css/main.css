@@ -9,6 +9,16 @@ html {
   border-radius: var(--border-radius);
 }
 
+.card-title {
+  color: var(--color-primary);
+}
+
+.btn {
+  background-color: var(--color-primary);
+  border-color: var(--color-primary);
+  border-radius: var(--border-radius);
+}
+
 :root {
   --color-primary: red;
   --border-radius: 4px;
